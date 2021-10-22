@@ -18,9 +18,9 @@ namespace Mirza_Lorena_Lab2.Data
             }
             var books = new Book[]
             {
- new Book{Title="Baltagul",Author="Mihail Sadoveanu",Price=Decimal.Parse("22")},
- new Book{Title="Enigma Otiliei",Author="George Calinescu",Price=Decimal.Parse("18")},
- new Book{Title="Maytrei",Author="Mircea Eliade",Price=Decimal.Parse("27")}
+                 new Book{Title="Baltagul",Author="Mihail Sadoveanu",Price=Decimal.Parse("22")},
+                 new Book{Title="Enigma Otiliei",Author="George Calinescu",Price=Decimal.Parse("18")},
+                 new Book{Title="Maytrei",Author="Mircea Eliade",Price=Decimal.Parse("27")}
             };
             foreach (Book s in books)
             {
@@ -40,10 +40,10 @@ namespace Mirza_Lorena_Lab2.Data
             context.SaveChanges();
             var orders = new Order[]
             {
- new Order{BookID=1,CustomerID=1050},
- new Order{BookID=3,CustomerID=1045},
- new Order{BookID=1,CustomerID=1045},
- new Order{BookID=2,CustomerID=1050},
+                     new Order{BookID=1,CustomerID=1050},
+                     new Order{BookID=3,CustomerID=1045},
+                     new Order{BookID=1,CustomerID=1045},
+                     new Order{BookID=2,CustomerID=1050},
             };
             foreach (Order e in orders)
             {
