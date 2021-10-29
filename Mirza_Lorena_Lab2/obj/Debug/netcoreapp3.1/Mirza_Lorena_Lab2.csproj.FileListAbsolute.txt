@@ -173,3 +173,10 @@ C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lor
 C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Statistics.cshtml.g.cs
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive\Documents\facultate\FSEGA\map\Mirza_Lorena_Lab2\Mirza_Lorena_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Index.cshtml.g.cs
